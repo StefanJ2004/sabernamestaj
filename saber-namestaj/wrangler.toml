@@ -1,0 +1,27 @@
+# Cloudflare Pages konfiguracija — Šaber nameštaj
+name = "saber-namestaj"
+pages_build_output_dir = "public"
+compatibility_date = "2025-10-01"
+
+# R2 bucket za slike, 3D modele, kataloge i listu proizvoda
+[[r2_buckets]]
+binding = "MEDIA"
+bucket_name = "saber-media"
+
+# (opciono) KV za automatsko obnavljanje Instagram tokena
+# [[kv_namespaces]]
+# binding = "IG_KV"
+# id = "<ID iz Cloudflare dashboard-a>"
+
+[vars]
+# Javni URL R2 fajlova. "/media" radi odmah (preko funkcije);
+# kad povežeš R2 sa poddomenom, stavi npr. "https://media.sabernamestaj.rs" (brže i bez troška funkcija).
+MEDIA_BASE = "/media"
+CONTACT_TO = "info@sabernamestaj.rs"
+CONTACT_FROM = "Šaber sajt <sajt@sabernamestaj.rs>"
+
+# TAJNE (NE upisuj ovde!) — podešavaju se u dashboard-u ili komandom:
+#   npx wrangler pages secret put ADMIN_PASSWORD
+#   npx wrangler pages secret put RESEND_API_KEY
+#   npx wrangler pages secret put TURNSTILE_SECRET
+#   npx wrangler pages secret put INSTAGRAM_TOKEN

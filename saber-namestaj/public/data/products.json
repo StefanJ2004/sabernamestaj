@@ -1,0 +1,274 @@
+[
+ {
+  "id": "bistro-01",
+  "name": {
+   "sr": "Bistro 01",
+   "en": "Bistro 01"
+  },
+  "collection": "Bistro",
+  "category": "stolica",
+  "description": {
+   "sr": "Klasična bistro stolica od savijene bukve sa pletenim sedištem. Lagana, stabilna i napravljena za svakodnevni rad u kafićima i restoranima.",
+   "en": "A classic bentwood bistro chair with a woven seat. Light, sturdy and built for everyday use in cafés and restaurants."
+  },
+  "dimensions": "Š 43 × D 52 × V 86 cm · sedište 46 cm",
+  "materials": {
+   "sr": "Savijena bukva, bečki pleter, mat lak",
+   "en": "Bent beech, Vienna cane, matt lacquer"
+  },
+  "inStock": true,
+  "stockQty": 24,
+  "images": [
+   "https://images.unsplash.com/photo-1768203634842-ece3bb915cc1",
+   "https://images.unsplash.com/photo-1760325902589-fe244f204b08",
+   "https://images.unsplash.com/photo-1766802981183-a301fa783e95"
+  ],
+  "model": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Assets/main/Models/SheenChair/glTF-Binary/SheenChair.glb",
+  "featured": true,
+  "createdAt": "2026-09-20"
+ },
+ {
+  "id": "bistro-02",
+  "name": {
+   "sr": "Bistro 02",
+   "en": "Bistro 02"
+  },
+  "collection": "Bistro",
+  "category": "stolica",
+  "description": {
+   "sr": "Bistro model sa punim sedištem od masiva i blago zakrivljenim naslonom. Može se tapacirati po želji.",
+   "en": "A bistro model with a solid wood seat and gently curved backrest. Upholstery available on request."
+  },
+  "dimensions": "Š 44 × D 50 × V 84 cm · sedište 46 cm",
+  "materials": {
+   "sr": "Savijena bukva, masiv, bajc po izboru",
+   "en": "Bent beech, solid wood, stain of choice"
+  },
+  "inStock": false,
+  "stockQty": 0,
+  "images": [
+   "https://images.unsplash.com/photo-1650476524564-f94dc9669067",
+   "https://images.unsplash.com/photo-1730373451883-45a448eb9bfc"
+  ],
+  "model": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Assets/main/Models/ChairDamaskPurplegold/glTF-Binary/ChairDamaskPurplegold.glb",
+  "featured": false,
+  "createdAt": "2026-09-10"
+ },
+ {
+  "id": "bistro-bar",
+  "name": {
+   "sr": "Bistro Bar",
+   "en": "Bistro Bar"
+  },
+  "collection": "Bistro",
+  "category": "barska",
+  "description": {
+   "sr": "Barska verzija Bistro stolice sa osloncem za noge od savijene bukve.",
+   "en": "The bar-height version of the Bistro chair with a bentwood footrest."
+  },
+  "dimensions": "Š 44 × D 48 × V 105 cm · sedište 76 cm",
+  "materials": {
+   "sr": "Savijena bukva, mat lak",
+   "en": "Bent beech, matt lacquer"
+  },
+  "inStock": true,
+  "stockQty": 8,
+  "images": [
+   "https://images.unsplash.com/photo-1503602642458-232111445657",
+   "https://images.unsplash.com/photo-1771365155377-d58bdc1e09b2"
+  ],
+  "model": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Assets/main/Models/SheenChair/glTF-Binary/SheenChair.glb",
+  "featured": false,
+  "createdAt": "2026-08-28"
+ },
+ {
+  "id": "bistro-fotelja",
+  "name": {
+   "sr": "Bistro Fotelja",
+   "en": "Bistro Fotelja"
+  },
+  "collection": "Bistro",
+  "category": "fotelja",
+  "description": {
+   "sr": "Bistro fotelja sa rukonaslonima od jednog komada savijenog drveta — za udobnije sedenje u restoranima i salonima.",
+   "en": "A Bistro armchair with one-piece bentwood armrests — for more comfortable seating in restaurants and lounges."
+  },
+  "dimensions": "Š 56 × D 54 × V 82 cm · sedište 45 cm",
+  "materials": {
+   "sr": "Savijena bukva, tapacirano sedište",
+   "en": "Bent beech, upholstered seat"
+  },
+  "inStock": false,
+  "stockQty": 0,
+  "images": [
+   "https://images.unsplash.com/photo-1789912455635-66fb769ee38d",
+   "https://images.unsplash.com/photo-1622880355742-af182a61b362"
+  ],
+  "model": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Assets/main/Models/ChairDamaskPurplegold/glTF-Binary/ChairDamaskPurplegold.glb",
+  "featured": false,
+  "createdAt": "2026-08-15"
+ },
+ {
+  "id": "viena",
+  "name": {
+   "sr": "Viena",
+   "en": "Viena"
+  },
+  "collection": "Viena",
+  "category": "stolica",
+  "description": {
+   "sr": "Inspirisana bečkom tradicijom savijanja drveta, Viena je elegantna stolica za restorane i trpezarije.",
+   "en": "Inspired by the Viennese bentwood tradition, Viena is an elegant chair for restaurants and dining rooms."
+  },
+  "dimensions": "Š 42 × D 51 × V 88 cm · sedište 46 cm",
+  "materials": {
+   "sr": "Savijena bukva, bajc orah, satin lak",
+   "en": "Bent beech, walnut stain, satin lacquer"
+  },
+  "inStock": false,
+  "stockQty": 0,
+  "images": [
+   "https://images.unsplash.com/photo-1572297794744-a19043e308f8",
+   "https://images.unsplash.com/photo-1600611934199-15c7850755bf"
+  ],
+  "model": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Assets/main/Models/SheenChair/glTF-Binary/SheenChair.glb",
+  "featured": false,
+  "createdAt": "2026-07-30"
+ },
+ {
+  "id": "viena-t",
+  "name": {
+   "sr": "Viena T",
+   "en": "Viena T"
+  },
+  "collection": "Viena",
+  "category": "stolica",
+  "description": {
+   "sr": "Viena sa tapaciranim sedištem — štof ili koža po izboru iz naše palete materijala.",
+   "en": "Viena with an upholstered seat — fabric or leather from our material palette."
+  },
+  "dimensions": "Š 42 × D 51 × V 88 cm · sedište 47 cm",
+  "materials": {
+   "sr": "Savijena bukva, štof/koža",
+   "en": "Bent beech, fabric/leather"
+  },
+  "inStock": true,
+  "stockQty": 16,
+  "images": [
+   "https://images.unsplash.com/photo-1705320678447-78c5fe2615a7",
+   "https://images.unsplash.com/photo-1666261014484-3b510d161a6d"
+  ],
+  "model": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Assets/main/Models/ChairDamaskPurplegold/glTF-Binary/ChairDamaskPurplegold.glb",
+  "featured": false,
+  "createdAt": "2026-07-12"
+ },
+ {
+  "id": "nordik",
+  "name": {
+   "sr": "Nordik",
+   "en": "Nordik"
+  },
+  "collection": "Nordik",
+  "category": "stolica",
+  "description": {
+   "sr": "Čiste linije i svetao masiv — Nordik se uklapa u savremene enterijere.",
+   "en": "Clean lines and light solid wood — Nordik suits contemporary interiors."
+  },
+  "dimensions": "Š 46 × D 50 × V 80 cm · sedište 45 cm",
+  "materials": {
+   "sr": "Masivna bukva, prirodno ulje",
+   "en": "Solid beech, natural oil"
+  },
+  "inStock": false,
+  "stockQty": 0,
+  "images": [
+   "https://images.unsplash.com/photo-1699588772787-1eed3b726e0a",
+   "https://images.unsplash.com/photo-1748975026839-e68da17878b3"
+  ],
+  "model": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Assets/main/Models/SheenChair/glTF-Binary/SheenChair.glb",
+  "featured": false,
+  "createdAt": "2026-06-25"
+ },
+ {
+  "id": "nordik-tabure",
+  "name": {
+   "sr": "Nordik Tabure",
+   "en": "Nordik Tabure"
+  },
+  "collection": "Nordik",
+  "category": "tabure",
+  "description": {
+   "sr": "Niski tabure od masiva, praktičan za kafiće, pekare i kuhinje.",
+   "en": "A low solid-wood stool, practical for cafés, bakeries and kitchens."
+  },
+  "dimensions": "Ø 36 × V 46 cm",
+  "materials": {
+   "sr": "Masivna bukva, mat lak",
+   "en": "Solid beech, matt lacquer"
+  },
+  "inStock": true,
+  "stockQty": 30,
+  "images": [
+   "https://images.unsplash.com/photo-1634798245965-03669c757183",
+   "https://images.unsplash.com/photo-1537468243621-d21861d29fe3"
+  ],
+  "model": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Assets/main/Models/SheenChair/glTF-Binary/SheenChair.glb",
+  "featured": false,
+  "createdAt": "2026-06-02"
+ },
+ {
+  "id": "nordik-bar",
+  "name": {
+   "sr": "Nordik Bar",
+   "en": "Nordik Bar"
+  },
+  "collection": "Nordik",
+  "category": "barska",
+  "description": {
+   "sr": "Barska stolica sa masivnim sedištem i oslonom za noge.",
+   "en": "A bar stool with a solid seat and footrest."
+  },
+  "dimensions": "Š 40 × D 40 × V 92 cm · sedište 75 cm",
+  "materials": {
+   "sr": "Masivna bukva, bajc venge",
+   "en": "Solid beech, wenge stain"
+  },
+  "inStock": false,
+  "stockQty": 0,
+  "images": [
+   "https://images.unsplash.com/photo-1776890579663-383de3a63d70",
+   "https://images.unsplash.com/photo-1580439527610-212eb31ce1fd"
+  ],
+  "model": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Assets/main/Models/ChairDamaskPurplegold/glTF-Binary/ChairDamaskPurplegold.glb",
+  "featured": false,
+  "createdAt": "2026-05-18"
+ },
+ {
+  "id": "loft",
+  "name": {
+   "sr": "Loft",
+   "en": "Loft"
+  },
+  "collection": "Loft",
+  "category": "stolica",
+  "description": {
+   "sr": "Robusna stolica od masiva za industrijske i loft enterijere.",
+   "en": "A robust solid-wood chair for industrial and loft interiors."
+  },
+  "dimensions": "Š 45 × D 52 × V 82 cm · sedište 46 cm",
+  "materials": {
+   "sr": "Masivni hrast, prirodno ulje",
+   "en": "Solid oak, natural oil"
+  },
+  "inStock": true,
+  "stockQty": 4,
+  "images": [
+   "https://images.unsplash.com/photo-1640938776314-4d303f8a1380",
+   "https://images.unsplash.com/photo-1658071372366-8a658d8a9835",
+   "https://images.unsplash.com/photo-1603376728541-6e1906a300e6"
+  ],
+  "model": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Assets/main/Models/SheenChair/glTF-Binary/SheenChair.glb",
+  "featured": false,
+  "createdAt": "2026-05-01"
+ }
+]
