@@ -1,0 +1,110 @@
+[
+ {
+  "name": {
+   "sr": "Bistro Lipa",
+   "en": "Bistro Lipa"
+  },
+  "city": "Beograd",
+  "year": 2025,
+  "type": {
+   "sr": "Restoran",
+   "en": "Restaurant"
+  },
+  "chairs": 64,
+  "image": "https://images.unsplash.com/photo-1670819917685-f1040e76b9b7",
+  "text": {
+   "sr": "Bistro 01 stolice u bajcu orah, sa pletenim sedištem.",
+   "en": "Bistro 01 chairs in walnut stain with cane seats."
+  }
+ },
+ {
+  "name": {
+   "sr": "Kafe Kvart",
+   "en": "Kafe Kvart"
+  },
+  "city": "Novi Sad",
+  "year": 2025,
+  "type": {
+   "sr": "Kafić",
+   "en": "Café"
+  },
+  "chairs": 38,
+  "image": "https://images.unsplash.com/photo-1567880905822-56f8e06fe630",
+  "text": {
+   "sr": "Nordik stolice i barske stolice u prirodnom tonu.",
+   "en": "Nordik chairs and bar stools in a natural finish."
+  }
+ },
+ {
+  "name": {
+   "sr": "Hotel Drina",
+   "en": "Hotel Drina"
+  },
+  "city": "Zlatibor",
+  "year": 2024,
+  "type": {
+   "sr": "Hotel",
+   "en": "Hotel"
+  },
+  "chairs": 120,
+  "image": "https://images.unsplash.com/photo-1621293954908-907159247fc8",
+  "text": {
+   "sr": "Viena T stolice za restoran i lobi hotela.",
+   "en": "Viena T chairs for the hotel restaurant and lobby."
+  }
+ },
+ {
+  "name": {
+   "sr": "Trattoria Sole",
+   "en": "Trattoria Sole"
+  },
+  "city": "Niš",
+  "year": 2024,
+  "type": {
+   "sr": "Restoran",
+   "en": "Restaurant"
+  },
+  "chairs": 52,
+  "image": "https://images.unsplash.com/photo-1777895610936-8e5dac7d75a7",
+  "text": {
+   "sr": "Bistro 02 sa tapaciranim sedištem.",
+   "en": "Bistro 02 with upholstered seats."
+  }
+ },
+ {
+  "name": {
+   "sr": "Zrno",
+   "en": "Zrno"
+  },
+  "city": "Kragujevac",
+  "year": 2023,
+  "type": {
+   "sr": "Pekara i kafić",
+   "en": "Bakery & café"
+  },
+  "chairs": 24,
+  "image": "https://images.unsplash.com/photo-1511081692775-05d0f180a065",
+  "text": {
+   "sr": "Nordik tabure i Loft stolice.",
+   "en": "Nordik stools and Loft chairs."
+  }
+ },
+ {
+  "name": {
+   "sr": "Restoran Sat",
+   "en": "Restoran Sat"
+  },
+  "city": "Subotica",
+  "year": 2023,
+  "type": {
+   "sr": "Restoran",
+   "en": "Restaurant"
+  },
+  "chairs": 80,
+  "image": "https://images.unsplash.com/photo-1688683035224-28a2d702383a",
+  "text": {
+   "sr": "Kompletno opremanje sale — Viena i Bistro Bar.",
+   "en": "Complete dining-room fit-out — Viena and Bistro Bar."
+  }
+ }
+]

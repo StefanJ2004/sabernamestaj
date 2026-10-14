@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="sr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Lista želja — Šaber nameštaj</title>
+<meta name="description" content="Vaša lista želja — pošaljite upit za odabrane stolice.">
+<meta name="theme-color" content="#0f0e0d">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Šaber nameštaj">
+<meta property="og:title" content="Lista želja — Šaber nameštaj">
+<meta property="og:description" content="Vaša lista želja — pošaljite upit za odabrane stolice.">
+<meta property="og:image" content="https://images.unsplash.com/photo-1768203634842-ece3bb915cc1?w=1200&amp;q=70&amp;auto=format&amp;h=630&amp;fit=crop">
+<link rel="icon" href="/assets/img/favicon.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://images.unsplash.com">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Jost:wght@300;400;500&display=swap">
+<link rel="stylesheet" href="/assets/css/main.css?v=1">
+<script>try{var l=localStorage.getItem('saber_lang')||(/^(sr|hr|bs|sh|cnr|me)/i.test(navigator.language)?'sr':'en');if(l!=='sr'){document.documentElement.classList.add('i18n-wait');document.documentElement.lang=l}}catch(e){}</script>
+<script src="/assets/js/app.js?v=1" defer></script>
+<script src="/assets/js/pages.js?v=1" defer></script>
+</head>
+<body data-page="wishlist" data-title-key="title.wishlist">
+<a class="skip-link" href="#main">Preskoči na sadržaj</a>
+<header id="site-header" class="site-header"></header>
+<main id="main">
+<section class="page-head">
+  <div class="container">
+    <span class="eyebrow" data-i18n="wish.eyebrow">Lista želja</span>
+    <h1 data-i18n="wish.title">Vaša lista želja</h1>
+    <p class="lead" data-i18n="wish.lead">Sačuvajte modele koji vam se dopadaju, podesite količine i pošaljite nam jedan upit za sve.</p>
+  </div>
+</section>
+<section class="section" style="padding-top:48px"><div class="container">
+  <div id="wish-list"><p class="muted" data-i18n="loading">Učitavanje…</p></div>
+  <div id="wish-form-wrap" hidden>
+    <h2 data-i18n="wish.formTitle">Pošaljite upit za listu</h2>
+    <p class="muted" data-i18n="wish.formLead">Javićemo vam se sa ponudom, rokovima izrade i dostupnošću sa lagera.</p>
+    <form id="wish-form" class="form" novalidate style="margin-top:28px">
+      <div class="field"><label for="w-name" data-i18n="form.name">Ime i prezime *</label><input id="w-name" name="name" required maxlength="120" autocomplete="name"></div>
+      <div class="field"><label for="w-email" data-i18n="form.email">E-mail *</label><input id="w-email" name="email" type="email" required maxlength="200" autocomplete="email"></div>
+      <div class="field"><label for="w-phone" data-i18n="form.phone">Telefon</label><input id="w-phone" name="phone" type="tel" maxlength="50" autocomplete="tel"></div>
+      <div class="field"><label for="w-company" data-i18n="form.company">Firma / lokal</label><input id="w-company" name="company" maxlength="160" autocomplete="organization"></div>
+      
+      <div class="field full"><label for="w-message" data-i18n="wish.note">Napomena</label><textarea id="w-message" name="message" maxlength="5000"></textarea></div>
+      <input class="hp" name="website" tabindex="-1" autocomplete="off" aria-hidden="true">
+      <div class="full turnstile-slot"></div>
+      <div class="full actions" style="align-items:center"><button class="btn btn--solid" type="submit"><span data-i18n="form.send">Pošalji</span> <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4"><path d="M4 12h15M14 6l6 6-6 6"/></svg></button><p class="form-status" role="status" aria-live="polite"></p></div></form>
+  </div>
+</div></section>
+</main>
+<footer id="site-footer"></footer>
+</body>
+</html>
